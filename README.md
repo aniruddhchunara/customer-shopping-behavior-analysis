@@ -1,43 +1,70 @@
-# Customer Shopping Behavior Analysis
+# 🛍️ Customer Shopping Behavior Analysis
 
 ## 📊 Project Overview
 
 This project analyzes customer shopping behavior to identify purchasing patterns, customer preferences, spending trends, and business insights.
 
-The analysis uses Python, Pandas, data visualization, and SQL to transform customer shopping data into meaningful insights for data-driven decision-making.
+The project combines **Python, Pandas, SQL, Data Visualization, and Power BI** to transform customer shopping data into meaningful insights for data-driven decision-making.
+
+---
 
 ## 🎯 Objectives
 
 - Analyze customer purchasing behavior
 - Identify customer preferences and purchasing patterns
 - Understand customer spending trends
-- Explore customer demographics
-- Analyze product and category performance
-- Answer business questions using SQL
-- Generate meaningful data visualizations
-- Extract actionable business insights
+- Analyze customer demographics
+- Compare purchasing behavior across different categories
+- Analyze payment methods and shopping preferences
+- Identify seasonal purchasing trends
+- Generate actionable business insights
+
+---
 
 ## 🛠️ Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-- SQL
-- Data Visualization
+- 🐍 Python
+- 🐼 Pandas
+- 🔢 NumPy
+- 📊 Matplotlib
+- 🎨 Seaborn
+- 🗃️ SQL
+- 📓 Jupyter Notebook
+- 📈 Power BI
+- 🔧 Git & GitHub
 
-## 📁 Project Structure
+---
+
+## 📂 Project Files
+
+| File | Description |
+|---|---|
+| `customer_shopping_behavior_analysis.ipynb` | Complete Python data analysis and preprocessing |
+| `customer_shopping_behavior.csv` | Customer shopping behavior dataset |
+| `customer_purchase_queries.sql` | SQL queries for business analysis |
+| `screenshots/customer-shopping-behavior-dashboard.png` | Power BI dashboard preview |
+| `README.md` | Project documentation |
+
+---
+
+## 🔄 Project Workflow
 
 ```text
-customer-shopping-behavior-analysis/
-├── customer_shopping_behavior_analysis.ipynb
-├── customer_shopping_behavior.csv
-├── customer_purchase_queries.sql
-├── README.md
-└── .gitignore
-
+Customer Shopping Dataset
+          ↓
+Data Loading
+          ↓
+Data Cleaning & Preprocessing
+          ↓
+Exploratory Data Analysis
+          ↓
+Customer Behavior Analysis
+          ↓
+SQL Business Queries
+          ↓
+Power BI Dashboard
+          ↓
+Business Insights
 
 ## 👨‍💻 About Me
 
