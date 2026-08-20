@@ -37,3 +37,31 @@ customer-shopping-behavior-analysis/
 ├── customer_purchase_queries.sql
 ├── README.md
 └── .gitignore
+
+
+## 👨‍💻 About Me
+
+### Anirudh Chunara
+
+I am a **BE Information Technology student** with a strong interest in **Python, Data Analytics, Machine Learning, and Software Development**.
+
+I enjoy building practical projects that combine programming, data, and real-world problem solving. I am currently focused on developing industry-ready skills and building a strong portfolio through hands-on projects.
+
+### 💻 Skills & Interests
+
+- 🐍 Python
+- 📊 Data Analytics
+- 🗃️ SQL
+- 🤖 Machine Learning
+- 📈 Data Visualization
+- 🌐 Web Development
+- 🧠 Problem Solving
+
+### 🎯 Career Goal
+
+Aspiring **Python Developer / Data Analyst** looking for opportunities to apply my technical skills, work on real-world problems, and continue learning in a professional environment.
+
+### 🔗 Connect With Me
+
+- **GitHub:** [Anirudh Chunara](https://github.com/aniruddhchunara)
+- **LinkedIn:** [Anirudh Chunara](https://www.linkedin.com/in/anirudh-chunara)
